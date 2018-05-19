@@ -1,0 +1,1 @@
+/home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/java

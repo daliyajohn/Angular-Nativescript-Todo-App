@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:multidex:1.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/c0d19a9560978d22bdeccde1647cbe23/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/88d56fe204dacc87bf29caa66d30fe8f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/aea0e8bc2e5d62aa32a9c9f8f30a9f6f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/84fdcb9141394b2a0e985b1349dc24ce/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/402cd2ac6f3ba6c5565cdc942c0c7888/AndroidManifest.xml:17:1-31:12
+MERGED from [:nativescript-optimized:] /home/user/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/451d5b6e6f2e4aae4ec89a107c72ee05/AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] /home/user/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/604c42f00ea72b1b7202f1bde155dff4/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/a48327b44e6be1774b96d606b3fe24b3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e54f7a3720502a775d6011c4e87922ec/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/fa9e24f2be4329de960e9e49b001bc32/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/57508a2c9dbcfe791829a4610c9632ba/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/13048391b548ab0d792ec6ccba77520c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/f551d9611dc5441701a9dfa8a9b50092/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/8f3684807c427616d9007e0dee0db5de/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/5c7da7d7c50f06f317d3ec7d0f95c3b9/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:3:2-36
+		INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:multidex:1.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/c0d19a9560978d22bdeccde1647cbe23/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/c0d19a9560978d22bdeccde1647cbe23/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/88d56fe204dacc87bf29caa66d30fe8f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/88d56fe204dacc87bf29caa66d30fe8f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/aea0e8bc2e5d62aa32a9c9f8f30a9f6f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/aea0e8bc2e5d62aa32a9c9f8f30a9f6f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/84fdcb9141394b2a0e985b1349dc24ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/84fdcb9141394b2a0e985b1349dc24ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/402cd2ac6f3ba6c5565cdc942c0c7888/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/402cd2ac6f3ba6c5565cdc942c0c7888/AndroidManifest.xml:21:5-23:54
+MERGED from [:nativescript-optimized:] /home/user/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/451d5b6e6f2e4aae4ec89a107c72ee05/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized:] /home/user/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/451d5b6e6f2e4aae4ec89a107c72ee05/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/user/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/604c42f00ea72b1b7202f1bde155dff4/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/user/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/604c42f00ea72b1b7202f1bde155dff4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/a48327b44e6be1774b96d606b3fe24b3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/a48327b44e6be1774b96d606b3fe24b3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e54f7a3720502a775d6011c4e87922ec/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e54f7a3720502a775d6011c4e87922ec/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/fa9e24f2be4329de960e9e49b001bc32/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/fa9e24f2be4329de960e9e49b001bc32/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/57508a2c9dbcfe791829a4610c9632ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/57508a2c9dbcfe791829a4610c9632ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/13048391b548ab0d792ec6ccba77520c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/13048391b548ab0d792ec6ccba77520c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/f551d9611dc5441701a9dfa8a9b50092/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/f551d9611dc5441701a9dfa8a9b50092/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/8f3684807c427616d9007e0dee0db5de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/8f3684807c427616d9007e0dee0db5de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/5c7da7d7c50f06f317d3ec7d0f95c3b9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/5c7da7d7c50f06f317d3ec7d0f95c3b9/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/88d56fe204dacc87bf29caa66d30fe8f/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+application
+ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/88d56fe204dacc87bf29caa66d30fe8f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/88d56fe204dacc87bf29caa66d30fe8f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/aea0e8bc2e5d62aa32a9c9f8f30a9f6f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/aea0e8bc2e5d62aa32a9c9f8f30a9f6f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/84fdcb9141394b2a0e985b1349dc24ce/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/84fdcb9141394b2a0e985b1349dc24ce/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/402cd2ac6f3ba6c5565cdc942c0c7888/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/402cd2ac6f3ba6c5565cdc942c0c7888/AndroidManifest.xml:29:5-20
+MERGED from [:widgets-release:] /home/user/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/604c42f00ea72b1b7202f1bde155dff4/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /home/user/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/604c42f00ea72b1b7202f1bde155dff4/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/a48327b44e6be1774b96d606b3fe24b3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/a48327b44e6be1774b96d606b3fe24b3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e54f7a3720502a775d6011c4e87922ec/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e54f7a3720502a775d6011c4e87922ec/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/fa9e24f2be4329de960e9e49b001bc32/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/fa9e24f2be4329de960e9e49b001bc32/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/13048391b548ab0d792ec6ccba77520c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/13048391b548ab0d792ec6ccba77520c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/f551d9611dc5441701a9dfa8a9b50092/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/f551d9611dc5441701a9dfa8a9b50092/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/8f3684807c427616d9007e0dee0db5de/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/8f3684807c427616d9007e0dee0db5de/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/5c7da7d7c50f06f317d3ec7d0f95c3b9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/5c7da7d7c50f06f317d3ec7d0f95c3b9/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from /home/user/Documents/github/Angular-Nativescript-Todo-App/platforms/android/app/src/main/AndroidManifest.xml:41:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/88d56fe204dacc87bf29caa66d30fe8f/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/aea0e8bc2e5d62aa32a9c9f8f30a9f6f/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/aea0e8bc2e5d62aa32a9c9f8f30a9f6f/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/84fdcb9141394b2a0e985b1349dc24ce/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/84fdcb9141394b2a0e985b1349dc24ce/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/402cd2ac6f3ba6c5565cdc942c0c7888/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/402cd2ac6f3ba6c5565cdc942c0c7888/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/a48327b44e6be1774b96d606b3fe24b3/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/a48327b44e6be1774b96d606b3fe24b3/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e54f7a3720502a775d6011c4e87922ec/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e54f7a3720502a775d6011c4e87922ec/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/fa9e24f2be4329de960e9e49b001bc32/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/fa9e24f2be4329de960e9e49b001bc32/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/57508a2c9dbcfe791829a4610c9632ba/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/57508a2c9dbcfe791829a4610c9632ba/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/13048391b548ab0d792ec6ccba77520c/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/13048391b548ab0d792ec6ccba77520c/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/f551d9611dc5441701a9dfa8a9b50092/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/f551d9611dc5441701a9dfa8a9b50092/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/8f3684807c427616d9007e0dee0db5de/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/8f3684807c427616d9007e0dee0db5de/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/5c7da7d7c50f06f317d3ec7d0f95c3b9/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/5c7da7d7c50f06f317d3ec7d0f95c3b9/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/88d56fe204dacc87bf29caa66d30fe8f/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/user/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/88d56fe204dacc87bf29caa66d30fe8f/AndroidManifest.xml:26:9-47

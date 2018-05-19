@@ -1,10 +1,11 @@
-import { Component } from "@angular/core";
+import { Component } from '@angular/core';
 
 @Component({
-  selector: "my-app",
+  selector: 'my-app',
   template: `
-    <ActionBar title="My App" class="action-bar"></ActionBar>
+    <ActionBar title="Nativescript todo app" class="action-bar"></ActionBar>
     <!-- Your UI components go here -->
+    <Image src="https://i.ytimg.com/vi/wNfeXxpahIM/maxresdefault.jpg"></Image>
   `
 })
 export class AppComponent {
